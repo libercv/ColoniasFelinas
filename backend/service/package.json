@@ -25,7 +25,7 @@
     "@nestjs/graphql": "^12.2.0",
     "@nestjs/jwt": "^10.0.3",
     "@nestjs/passport": "^10.0.3",
-    "@nestjs/platform-express": "^10.4.2",
+    "@nestjs/platform-express": "^10.4.5",
     "@nestjs/typeorm": "^10.0.2",
     "apollo-server-express": "^3.6.7",
     "bcryptjs": "^2.4.3",
